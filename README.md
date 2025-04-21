@@ -33,6 +33,7 @@ In today's digital world, online shopping platforms are everywhere. Building a d
 3. Run the script to create all tables.
 4. Refer to `erd-image.png` to understand the data model.
 
+For detailed technical documentation, check out [DOCUMENTATION.md](DOCUMENTATION.md).
 ## Author
 
 **Joseph Onyango**  
